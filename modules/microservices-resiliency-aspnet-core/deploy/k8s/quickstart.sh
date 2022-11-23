@@ -1,8 +1,8 @@
 #!/bin/bash
 # Change this for a different location
-defaultLocation="eastus"
+defaultLocation="westeurope"
 # Change this for a different resource group name
-defaultRg="eshop-learn-rg"
+defaultRg="eshop-learn2-rg"
 
 # Color theming
 . <(cat ../../../../infrastructure/scripts/theme.sh)
